@@ -35,3 +35,4 @@ albumentations>=1.0.3
 # roboflow
 thop  # FLOPs computation
 ensemble_boxes
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
